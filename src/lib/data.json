@@ -1,0 +1,107 @@
+{
+  "Apollo-Clinic": [
+    {
+      "doctor": "Dr.Anadh",
+      "specialization": "Eye",
+      "from": "10:30 AM",
+      "to": "12:30 PM",
+      "fees": 200,
+      "appointments": []
+    },
+    {
+      "doctor": "Dr.Sandeep",
+      "specialization": "Neuro-surgeon",
+      "from": "10:00 AM",
+      "to": "11:00 AM",
+      "fees": 300,
+      "appointments": []
+    },
+    {
+      "doctor": "Dr.Venkat",
+      "specialization": "General-surgeon",
+      "from": "10:00 AM",
+      "to": "01:00 PM",
+      "fees": 100,
+      "appointments": []
+    },
+    {
+      "doctor": "Dr.Suresh",
+      "specialization": "Dentist",
+      "from": "09:00 AM",
+      "to": "12:00 PM",
+      "fees": 300,
+      "appointments": []
+    },
+    {
+      "doctor": "Dr.Ramesh",
+      "specialization": "General-surgeon",
+      "from": "02:00 PM",
+      "to": "03:00 pm",
+      "duration": "180 mins",
+      "fees": 300,
+      "appointments": []
+    }
+  ],
+  "MedLife-Clinic": [
+    {
+      "doctor": "Dr.Anadh",
+      "specialization": "Eye",
+      "from": "10:30 AM",
+      "to": "1:30 PM",
+      "fees": 200,
+      "appointments": []
+    },
+    {
+      "doctor": "Dr.Sandeep",
+      "specialization": "Neuro-surgeon",
+      "from": "10:00 AM",
+      "to": "12:00 PM",
+      "fees": 300,
+      "appointments": []
+    },
+    {
+      "doctor": "Dr.Venkat",
+      "specialization": "General-surgeon",
+      "from": "10:00 AM",
+      "to": "01:00 PM",
+      "fees": 100,
+      "appointments": []
+    }
+  ],
+  "Clinic-Plus": [
+    {
+      "doctor": "Dr.Anadh",
+      "specialization": "Eye",
+      "from": "10:30 AM",
+      "to": "1:30 PM",
+      "fees": 200,
+      "appointments": []
+    },
+    {
+      "doctor": "Dr.Venkat",
+      "specialization": "General-surgeon",
+      "from": "10:00 AM",
+      "to": "01:00 PM",
+      "fees": 100,
+      "appointments": []
+    }
+  ],
+  "Co-19-Clinic": [
+    {
+      "doctor": "Dr.Sandeep",
+      "specialization": "Neuro-surgeon",
+      "from": "10:00 AM",
+      "to": "12:00 PM",
+      "fees": 300,
+      "appointments": []
+    },
+    {
+      "doctor": "Dr.Venkat",
+      "specialization": "General-surgeon",
+      "from": "10:00 AM",
+      "to": "01:00 PM",
+      "fees": 100,
+      "appointments": []
+    }
+  ]
+}
